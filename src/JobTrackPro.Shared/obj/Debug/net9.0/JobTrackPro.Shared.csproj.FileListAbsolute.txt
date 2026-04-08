@@ -1,0 +1,11 @@
+C:\Projects\JobTrackPro\src\JobTrackPro.Shared\bin\Debug\net9.0\JobTrackPro.Shared.deps.json
+C:\Projects\JobTrackPro\src\JobTrackPro.Shared\bin\Debug\net9.0\JobTrackPro.Shared.dll
+C:\Projects\JobTrackPro\src\JobTrackPro.Shared\bin\Debug\net9.0\JobTrackPro.Shared.pdb
+C:\Projects\JobTrackPro\src\JobTrackPro.Shared\obj\Debug\net9.0\JobTrackPro.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\JobTrackPro\src\JobTrackPro.Shared\obj\Debug\net9.0\JobTrackPro.Shared.AssemblyInfoInputs.cache
+C:\Projects\JobTrackPro\src\JobTrackPro.Shared\obj\Debug\net9.0\JobTrackPro.Shared.AssemblyInfo.cs
+C:\Projects\JobTrackPro\src\JobTrackPro.Shared\obj\Debug\net9.0\JobTrackPro.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\JobTrackPro\src\JobTrackPro.Shared\obj\Debug\net9.0\JobTrackPro.Shared.dll
+C:\Projects\JobTrackPro\src\JobTrackPro.Shared\obj\Debug\net9.0\refint\JobTrackPro.Shared.dll
+C:\Projects\JobTrackPro\src\JobTrackPro.Shared\obj\Debug\net9.0\JobTrackPro.Shared.pdb
+C:\Projects\JobTrackPro\src\JobTrackPro.Shared\obj\Debug\net9.0\ref\JobTrackPro.Shared.dll

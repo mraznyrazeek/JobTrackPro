@@ -1,0 +1,8 @@
+C:\Projects\JobTrackPro\src\JobTrackPro.Mobile\wwwroot\css\app.css
+C:\Projects\JobTrackPro\src\JobTrackPro.Mobile\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Projects\JobTrackPro\src\JobTrackPro.Mobile\wwwroot\index.html
+C:\Projects\JobTrackPro\src\JobTrackPro.Mobile\wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
