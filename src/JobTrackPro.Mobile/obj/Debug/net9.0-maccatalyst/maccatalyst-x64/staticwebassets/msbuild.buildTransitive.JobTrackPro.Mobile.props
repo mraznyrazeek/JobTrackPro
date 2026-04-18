@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\JobTrackPro.Mobile.props" />
-</Project>

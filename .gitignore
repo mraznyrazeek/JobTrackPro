@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+bin/
+obj/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Rider / VS Code optional
+.idea/
+.vscode/
+
+# MAUI / mobile build artifacts
+*.apk
+*.aab
+*.idsig
