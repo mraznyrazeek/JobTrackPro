@@ -1,0 +1,32 @@
+﻿@page "/login"
+@using JobTrackPro.Application.DTOs.Auth
+@inject JobTrackPro.Web.Services.AuthService AuthService
+
+<h3>Login</h3>
+
+<input @bind="model.Email" placeholder="Email" />
+<br />
+<input type="password" @bind="model.Password" placeholder="Password" />
+<br />
+<button @onclick="LoginUser">Login</button>
+
+<p>@message</p>
+
+@code {
+    private LoginRequestDto model = new();
+    private string message = "";
+
+    private async Task LoginUser()
+    {
+        var result = await AuthService.Login(model);
+
+        if (result?.IsSuccess == true)
+        {
+            message = "Login successful!";
+        }
+        else
+        {
+            message = result?.Message ?? "Login failed";
+        }
+    }
+}
